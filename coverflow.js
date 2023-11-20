@@ -107,8 +107,8 @@ coverflowimages({
     images: [
         ["wizkid.jpeg", "wizkid.jpeg", 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
         ["ayra.jpeg", "ayra.jpeg", 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
-        ["wizkid.jpeg", "wizkid.jpeg"],
-        ["wizkid.jpeg", "wizkid.jpeg", 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
-        ["wizkid.jpeg", "wizkid.jpeg", 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker']
+        ["burna.jpeg", "burna.jpeg"],
+        ["cole.jpeg", "cole.jpeg", 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
+        ["drake.jpeg", "drake.jpeg", 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker']
     ] // <-- Add a comma here
 }); // <-- Add a semicolon here if necessary
